@@ -1,0 +1,26 @@
+{
+  "name": "zgallerie",
+  "version": "1.0.0",
+  "description": "e2e testing for zgallerie using jest-puppeteer",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0"
+  },
+  "scripts": {
+    "tests": "jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.9.0",
+    "jest-html-reporter": "^2.7.0",
+    "jest-html-reporters": "^2.1.2",
+    "jest-puppeteer": "^4.3.0",
+    "puppeteer": "^2.0.0",
+    "react-test-renderer": "^16.11.0",
+    "typescript": "^3.7.2"
+  }
+}
