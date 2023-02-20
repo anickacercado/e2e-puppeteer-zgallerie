@@ -1,4 +1,4 @@
-# Nightwatch
+# jest-puppeteer
 
 ## Description
 
